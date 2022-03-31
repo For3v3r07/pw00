@@ -1,0 +1,11 @@
+* {
+    height: 100%;
+}
+body{
+    background-image:linear-gradient(to top,#C98EE0,#7522A8);
+    background-attachment: fixed;
+    font-family: Arial;
+    font-size: 18px;
+    
+
+}
